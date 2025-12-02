@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<!--  #################3色コード纏め#############
+#FFD170  薄オレンジ
+#110093  ほぼ紺
+#4FB5FF  水色
+#FF7467  赤ピンクオレンジ
+#000000  黒
+#FFFFFF  白
+
+############URL###############
+https://drive.google.com/drive/folders/1mijp5Dt-LPkDAmXMQzzncS_Zn_ErmvvI
+https://photoshopvip.net/88848
+https://www.google.com/search?q=css+%E9%96%A2%E6%95%B0%E3%81%A7%E5%9B%B3%E5%BD%A2%E3%82%92%E6%8C%87%E5%AE%9A&rlz=1C1PWSB_jaJP943JP943&oq=css+%E9%96%A2%E6%95%B0%E3%81%A7%E5%9B%B3%E5%BD%A2%E3%82%92%E6%8C%87%E5%AE%9A&aqs=chrome..69i57j33i160.7037j0j15&sourceid=chrome&ie=UTF-8
+https://csshtml.work/list-style-none/#:~:text=%E7%82%B9%E3%82%92%E6%B6%88%E3%81%99%E3%81%AB%E3%81%AF%E3%80%8Clist%2Dstyle%3Anone%E3%80%8D&text=%E3%80%8Clist%2Dstyle%E3%80%8D%E3%81%AFul,%E6%B6%88%E3%81%99%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82
+
+-->
+<html lang="ja">
+	<head>
+		<meta charset="utf-8">
+		<title>プレイウィズの動画情報</title>
+		<meta name="description" content="サイトキャプションを入力">
+		<meta name="keywords" content="サイトキーワードを,で区切って入力">
+		<link rel="stylesheet" href="index.css">
+		<link rel="stylesheet" href="youtube.css">
+		<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+		<![endif]-->
+		<script src="sample.js"></script>
+	</head>
+
+	<body>
+		<!----- ヘッダー ----->
+		<header>
+			<a href="index.shtml"><div class="over_logo"><img id="logo" src="logo.png"></img></div></a>
+			<div class="right_menu">
+				<ul class="menu_bar">
+					<li><a href="mada.shtml"><img class="menu_img" src="./image/menu_1_1.png"></a></li>
+					<li><a href="information.shtml"><img class="menu_img" src="./image/menu_2.png"></a></li>
+					<li><a href="youtube.shtml"><img class="menu_img" src="./image/menu_3.png"></a></li>
+					<li><a href="mada.shtml"><img class="menu_img" src="./image/menu_4_1.png"></a></li>
+					<li><a href="mada.shtml"><img class="menu_img" src="./image/menu_5_1.png"></a></li>
+				</ul>
+			</div>
+
+		</header>
+		<!----- ヘッダー END ----->
+
+    <article>
+      <h2>大変申し訳ありません！</h2>
+      <p>まだできておりません!</p>
+      <p>完成までしばしお待ちください。。働きながら大学院の受験をしている焼き鳥が死ぬ気で作っています。誰か手伝って下さい。</p>
+      <p>次の更新の予定はめどが立っておりません。</p>
+    </article>

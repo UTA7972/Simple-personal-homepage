@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<!--  #################3色コード纏め#############
+#FFD170  薄オレンジ
+#110093  ほぼ紺
+#4FB5FF  水色
+#FF7467  赤ピンクオレンジ
+#000000  黒
+#FFFFFF  白
+
+############URL###############
+https://drive.google.com/drive/folders/1mijp5Dt-LPkDAmXMQzzncS_Zn_ErmvvI
+https://photoshopvip.net/88848
+https://www.google.com/search?q=css+%E9%96%A2%E6%95%B0%E3%81%A7%E5%9B%B3%E5%BD%A2%E3%82%92%E6%8C%87%E5%AE%9A&rlz=1C1PWSB_jaJP943JP943&oq=css+%E9%96%A2%E6%95%B0%E3%81%A7%E5%9B%B3%E5%BD%A2%E3%82%92%E6%8C%87%E5%AE%9A&aqs=chrome..69i57j33i160.7037j0j15&sourceid=chrome&ie=UTF-8
+https://csshtml.work/list-style-none/#:~:text=%E7%82%B9%E3%82%92%E6%B6%88%E3%81%99%E3%81%AB%E3%81%AF%E3%80%8Clist%2Dstyle%3Anone%E3%80%8D&text=%E3%80%8Clist%2Dstyle%E3%80%8D%E3%81%AFul,%E6%B6%88%E3%81%99%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82
+
+-->
+<html lang="ja">
+	<head>
+		<meta charset="utf-8">
+		<title>プレイウィズの動画情報</title>
+		<meta name="description" content="サイトキャプションを入力">
+		<meta name="keywords" content="サイトキーワードを,で区切って入力">
+		<link rel="stylesheet" href="index.css">
+		<link rel="stylesheet" href="youtube.css">
+		<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+		<![endif]-->
+		<script src="sample.js"></script>
+	</head>
+
+	<body>
+		<!----- ヘッダー ----->
+		<header>
+			<a href="index.shtml"><div class="over_logo"><img id="logo" src="logo.png"></img></div></a>
+			<div class="right_menu">
+				<ul class="menu_bar">
+					<li><a href="mada.shtml"><img class="menu_img" src="./image/menu_1_1.png"></a></li>
+					<li><a href="information.shtml"><img class="menu_img" src="./image/menu_2.png"></a></li>
+					<li><a href="youtube.shtml"><img class="menu_img" src="./image/menu_3.png"></a></li>
+					<li><a href="mada.shtml"><img class="menu_img" src="./image/menu_4_1.png"></a></li>
+					<li><a href="mada.shtml"><img class="menu_img" src="./image/menu_5_1.png"></a></li>
+				</ul>
+			</div>
+
+		</header>
+		<!----- ヘッダー END ----->
+
+		<!----- メインコンテンツ ----->
+		<article>
+			<img src="./image/zekkei.jpg">
+			<nav></nav>
+			<!-- <h1>誰でも遊べる統合版サーバー</h1> -->
+			<section class="container">
+				<h2 id="youtube_2">動画情報</h2>
+        <p>　本ページでは動画の更新情報などをまとめています。いずれは検索機能なども実装するつもりです。
+        極力動画の更新日にサイトのほうも更新しますが、焼き鳥(サイト管理者)が忙しいと遅れます。
+			尚、#9までのサムネが紛失したため、リンクに画像がありません。</p>
+			  <div id="inmap">
+					<h4>～目次～</h4>
+					<ul　id="map_list">
+						<li><a href="#youtube_2">動画情報について</a>←イマココ</li>
+						<li><a href="#saisinn">最新動画</a></li>
+						<li><a href="#1kki">第1期</a></li>
+						<li><a href="#2kki">第２期</a></li>
+					</ul>
+				</div>
+
+			<h3 id="saisinn">最新動画</h3>
+			<div id="botan_sin">
+				<table border="2" id="tab1">
+					<tr>
+						<th>サムネ</th>
+						<th>リンク</th>
+					</tr>
+					<tr>
+						<td class="sin_tab"><img src="./samune/series_2/2.jpg" id="sam_0"></td>
+				　  <td class="sin_tab">
+							<a href="https://www.youtube.com/watch?v=jH4GlhzTapw&t=31s">
+								<div>攻略開始‼謎があふれるRealms</div>
+								<div>お祝いマップとはなんだ!?</div>
+								<div>【誰でも入れるワールドでお祝いマップ攻略】</div>
+							</a>
+					  </td>
+					</tr>
+				</table>
+			</div>
+
+			<h3 id="1kki">第1期</h3>
+
+			<div id="inmap">
+				<h4>～目次～</h4>
+				<ul　id="map_list">
+					<li><a href="#1~5">#1~#5</a></li>
+					<li><a href="#6~10">#6~#10</a></li>
+					<li><a href="#11~12">#11,#12</a></li>
+				</ul>
+			</div>
+
+			<h4 id="1~5">第1~5回</h4>
+			<ul class="no_ten">
+				<li>第１回　<a href="https://www.youtube.com/watch?v=_n_cDu87cXw&t=115s">
+					サバイバル生活が(ようやく)始まりました【誰でも入れるワールドでMinecraft】＃1</a></li>
+				<li>第２回　<a href="https://www.youtube.com/watch?v=TUyz0SYPXdw">
+					木材より先にダイヤ発見【誰でも入れるワールドでMinecraft】＃2</a></li>
+				<li>第３回　<a href="https://www.youtube.com/watch?v=jIqIXuCvVTE">
+					現実逃避して全然進んでません。【誰でも入れるワールドでMinecraft】＃5<a/></li>
+				<li class="red_tex">#5と書いてありますが、第３話です。</li>
+				<li>第４回　<a href="https://www.youtube.com/watch?v=YqVSHtjm384&t=1s">迷子vs襲撃！結果はいかに？【誰でも入れるワールドでMinecraft】＃4</a></li>
+				<li>第５回　<a href="https://www.youtube.com/watch?v=YGp1zw5dAMU&t=352s">この村 ラマがひたすら増えるのでは？【誰でも入れるワールドでMinecraft】＃5</a></li>
+			</ul>
+
+			<h4 id="6~10">第6～10回</h4>
+			<ul class="no_ten">
+				<li>第６回　　<a href="https://www.youtube.com/watch?v=MXdz932Vkgg">落下のプロ現る⁉【誰でも入れるワールドでMinecraft】＃6</a></li>
+				<li>第７回　　<a href="https://www.youtube.com/watch?v=mQJQXSBk8JM&t=223s">荒らされた場所で遊ぼう！【誰でも入れるワールドでMinecraft】＃7</a></li>
+				<li>第８回　　<a href="https://www.youtube.com/watch?v=qxQiwZpvDjM&t=3s">さぁ何回回線落ちしたでしょう？【誰でも入れるワールドでMinecraft】＃8</a></li>
+				<li>第９回　　<a href="https://www.youtube.com/watch?v=tsK7QgMf9DA">見つからない魔女と感動の再開⁉【誰でも入れるワールドでMinecraft】＃9</a></li>
+				<li>第１０回　<a href="https://www.youtube.com/watch?v=T6psPuyrrfc">海賊上陸⁉ちゃんとしてない沈没船【誰でも入れるワールドでMinecraft】#10</a></li>
+			</ul>
+
+			<h4 id="11~12">第１１～１２回</h4>
+			<table border="2" id="tab1">
+				<tr>
+					<th>サムネ</th>
+					<th>リンク</th>
+				</tr>
+				<tr>
+					<td class="sin_tab"><img src="./samune/series_1/11.jpg" id="sam_0"></td>
+			　  <td class="sin_tab">
+						<div>第１１回</div>
+						<a href="https://www.youtube.com/watch?v=oRYIsZD0Byg">
+							<div>個性あふれる家紹介…のはずが</div>
+							<div>ハプニング発生⁉</div>
+							<div>【誰でも入れるワールドでMinecraft】#11</div>
+						</a>
+					</td>
+				</tr>
+				<tr>
+					<td class="sin_tab"><img src="./samune/series_1/12.jpg" id="sam_0"></td>
+			　  <td class="sin_tab">
+						<div>第１２回</div>
+						<a href="youtube.com/watch?v=4p1l2XuUll4">
+							<div>え⁉ナニコレ⁉勝利を確信してたはず</div>
+							<div>なのに大混乱!!</div>
+							<div>【誰でも遊べるワールドでワードウルフ】</div>
+						</a>
+					</td>
+				</tr>
+			</table>
+
+			<h3 id="2kki">第２期の動画</h3>
+
+			<h4 id="2_!~5">第1～5回</h4>
+			<table border="2" id="tab1">
+				<tr>
+					<th>サムネ</th>
+					<th>リンク</th>
+				</tr>
+				<tr>
+					<td class="sin_tab"><img src="./samune/series_2/1.jpg" id="sam_0"></td>
+			　  <td class="sin_tab">
+						<a href="https://www.youtube.com/watch?v=SGphcD2NbLk">
+							<div>お詫びと新生活始まりました</div>
+							<div></div>
+							<div>【誰でも遊べるワールドでサバイバル2】＃1</div>
+						</a>
+					</td>
+				</tr>
+				<tr>
+					<td class="sin_tab"><img src="./samune/series_2/2.jpg" id="sam_0"></td>
+			　  <td class="sin_tab">
+						<a href="https://www.youtube.com/watch?v=jH4GlhzTapw&t=31s">
+							<div>攻略開始‼謎があふれるRealms</div>
+							<div>お祝いマップとはなんだ!?</div>
+							<div>【誰でも入れるワールドでお祝いマップ攻略】</div>
+						</a>
+					</td>
+				</tr>
+			</table>
+
+		</section>
+    </article>

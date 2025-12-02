@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<!--  #################3色コード纏め#############
+#FFD170  薄オレンジ
+#110093  ほぼ紺
+#4FB5FF  水色
+#FF7467  赤ピンクオレンジ
+#000000  黒
+#FFFFFF  白
+
+############URL###############
+https://drive.google.com/drive/folders/1mijp5Dt-LPkDAmXMQzzncS_Zn_ErmvvI
+https://photoshopvip.net/88848
+https://www.google.com/search?q=css+%E9%96%A2%E6%95%B0%E3%81%A7%E5%9B%B3%E5%BD%A2%E3%82%92%E6%8C%87%E5%AE%9A&rlz=1C1PWSB_jaJP943JP943&oq=css+%E9%96%A2%E6%95%B0%E3%81%A7%E5%9B%B3%E5%BD%A2%E3%82%92%E6%8C%87%E5%AE%9A&aqs=chrome..69i57j33i160.7037j0j15&sourceid=chrome&ie=UTF-8
+https://csshtml.work/list-style-none/#:~:text=%E7%82%B9%E3%82%92%E6%B6%88%E3%81%99%E3%81%AB%E3%81%AF%E3%80%8Clist%2Dstyle%3Anone%E3%80%8D&text=%E3%80%8Clist%2Dstyle%E3%80%8D%E3%81%AFul,%E6%B6%88%E3%81%99%E3%81%93%E3%81%A8%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82
+
+-->
+<html lang="ja">
+	<head>
+		<meta charset="utf-8">
+		<title>【ぷれいうぃず】ワールド情報</title>
+		<meta name="description" content="誰でも無料で参加できる統合版のサバイバルサーバーを作りました!
+		メンバーもいい人ばかりなので、マルチプレイしたいけど緊張する方でも、是非遊びに来てください。
+		荒らし対策のために独自のセキュリティを導入しています。">
+		<meta name="keywords" content="マイクラ,統合版,マルチサーバー,無料,自由参加">
+		<link rel="stylesheet" href="index.css">
+		<!--[if lt IE 9]>
+		<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+		<![endif]-->
+		<script src="sample.js"></script>
+		<meta name="google-site-verification" content="-2Kmlc8bzxcwzcuz73IuNDILD2GVYll40uJeODLD7Ss" />
+	</head>
+
+	<body>
+		<!----- ヘッダー ----->
+		<header>
+			<a href="index.shtml"><div class="over_logo"><img id="logo" src="logo.png"></img></div></a>
+			<div class="right_menu">
+				<ul class="menu_bar">
+					<li><a href="mada.shtml"><img class="menu_img" src="./image/menu_1_1.png"></a></li>
+					<li><a href="information.shtml"><img class="menu_img" src="./image/menu_2.png"></a></li>
+					<li><a href="youtube.shtml"><img class="menu_img" src="./image/menu_3.png"></a></li>
+					<li><a href="mada.shtml"><img class="menu_img" src="./image/menu_4_1.png"></a></li>
+					<li><a href="mada.shtml"><img class="menu_img" src="./image/menu_5_1.png"></a></li>
+				</ul>
+			</div>
+
+		</header>
+		<!----- ヘッダー END ----->
+
+		<!----- メインコンテンツ ----->
+		<article>
+			<img src="./image/zekkei.jpg">
+			<nav></nav>
+			<!-- <h1>誰でも遊べる統合版サーバー</h1> -->
+			<section class="container">
+				<h2 id="first_title">ワールド情報</h2>
+        <p>
+					　ワールドで起こったことや建築物等の座標を書いています。
+					ここに書いていいよ～ってことがある方はDiscrodまでお願いします。
+      　</p>
+			  <p>※尚、第１期ワールドに入れなくなったため、第一期ワールドの座標等は記録しておりません。</p>
+
+			  <div id="inmap">
+					<h4>～目次～</h4>
+					<ul　id="map_list">
+						<li><a href="#first_title">ワールド情報</a></li>
+						<li><a href="#inmap">目次</a>←イマココ</li>
+						<li><a href="#contempolary">最近できたもの</a></li>
+						<li><a href="#structure">建築物・拠点</a>
+								<div>　　<a href="#public">公共物</a></div>
+								<div>　　<a href="#personal">個人の建築物</a></div></li>
+						<li><a href="#biome">自然にできたもの(バイオーム等)</a></li>
+						<li><a href="#others">その他の物</a></li>
+					</ul>
+				</div>
+
+				<h3 id="contempolary">最近できたもの</h3>
+				<P>現在報告なし。何かあれば是非焼き鳥までお願いします。泣いて喜びます。</p>
+
+				<h3 id="structure">建築物や拠点</h3>
+				<p>神建築者募集! 神建築は神建築という枠で載せさせてもらいます！
+					また、その中でも特によくできていると思えるものは、本ページのトップ画像に貼らせてもらいます!</p>
+				<h4 id="public">公共物</h4>
+					<p>現在登録なし</p>
+				<h4 id="pesonal">個人の建築物</h4>
+					<p>現在登録なし</p>
+
+				<h3 id="biome">自然にできたもの(バイオーム等)</h3>
+				<p>現在登録なし</p>
+
+				<h3 id="others">その他の物</h3>
+				<p>現在登録なし</p>
+      </article>
+    </body>

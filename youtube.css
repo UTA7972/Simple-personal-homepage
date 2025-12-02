@@ -1,0 +1,29 @@
+#sam_0{
+  height: 200px;
+  width: auto;
+  vertical-align: text-top;
+}
+
+#tab1{
+  width: 700px;
+  text-align: center;
+}
+
+.sin_tab{
+  width: 50%;
+  height: 200px;
+  background-color: white;
+  margin: 0 0 0 0;
+  padding: 0 0 0 0;
+}
+
+button{
+  margin: 0;
+  padding: 0;
+  background-color: white;
+  text-align: left;
+}
+
+.no_ten li{
+  list-style: none;
+}

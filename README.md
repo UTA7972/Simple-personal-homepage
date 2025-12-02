@@ -1,4 +1,3 @@
-# Simple-personal-homepage
 # PlayWith - Minecraft サーバー紹介サイト
 
 本リポジトリは、かつて友人と共同運営していた **Minecraft サーバー「PlayWith」** の紹介用に制作した  
